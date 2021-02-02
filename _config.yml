@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+
+import random
+print(random.randint(0,9))
